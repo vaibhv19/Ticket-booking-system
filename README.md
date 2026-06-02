@@ -50,7 +50,7 @@ Ticket-booking/
 ### 1. Clone the repository
 
 ```bash id="clone"
-git clone https://github.com/vaibhv19/Ticket-booking.git
+git clone https://github.com/vaibhv19/Ticket-booking-system.git
 cd Ticket-booking
 ```
 
